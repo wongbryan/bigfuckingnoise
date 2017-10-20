@@ -96,3 +96,7 @@ It looks like they're gonna make you put credit card information in to add the s
 Click the "Heroku Scheduler" row that now appears on your Resources page. This will open a new page, where you can set up how often you want your bot to run. Twitter will block bots that post too often, so I don't recommend choosing every 10 minutes.
 
 ![](https://trello-attachments.s3.amazonaws.com/58d428743111af1d0a20cf28/59ea86bf5d6a2ca30f7aaaf3/b1c147911be2fc16ee91802751ed8722/capture.png)
+
+## Success!
+
+That should be it!
