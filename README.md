@@ -7,7 +7,7 @@ This tutorial drew inspiration from Molly White's, which is available at http://
 
 ### Download the code
 
-First step is to [fork this repo to your own account](https://github.com/bgschiller/twitter-bot-starter-kit#fork-destination-box). It will be important to have a version that *you're* allowed to edit when it comes time to deploy your bot. Now, go to your fork and click the green `clone or download` button:
+First step is to [fork this repo to your own account](#fork-destination-box). It will be important to have a version that *you're* allowed to edit when it comes time to deploy your bot. Now, go to your fork and click the green `clone or download` button:
 
 ![](https://trello-attachments.s3.amazonaws.com/58d428743111af1d0a20cf28/59ea8149225a23a2ae6e3a59/8a97e1045a247f2d44fdded010e28850/capture.png)
 
