@@ -55,7 +55,37 @@ At this point, you should be able to run your bot locally. Run it with `python b
 
 ## Make your bot!
 
-Change `bot.py` to post whatever you like.
+Change `bot.py` to post whatever you like. Some ideas, if you're looking for inspiration:
+
+- [@TwoHeadlines](https://twitter.com/twoheadlines)
+![](https://trello-attachments.s3.amazonaws.com/58d428743111af1d0a20cf28/59ea8ab4a108e72243939651/c155d08814be16f532b66db098bb9ea7/capture.png)
+
+- [@wikisext](https://twitter.com/wikisext)
+![](https://trello-attachments.s3.amazonaws.com/58d428743111af1d0a20cf28/59ea8acccbb284f4daf92760/8784e64eeb3be19df5cd3165c22bd790/capture.png)
+
+- [@portmanteau_bot](https://twitter.com/portmanteau_bot)
+![](https://trello-attachments.s3.amazonaws.com/58d428743111af1d0a20cf28/59ea8d6ed22630dccaf5b531/bfa9a74e723ae598203e946e6e7c32e9/capture.png)
+
+- [Accidental Haiku](https://twitter.com/accidental575)
+![](https://trello-attachments.s3.amazonaws.com/58d428743111af1d0a20cf28/59ea8dc295326d064a270c5e/2e81db6e643ca289e5301183d9e3e892/capture.png)
+
+- Many others at http://tinysubversions.com/
+
+### Resources for building your bot
+
+Again, copied from http://blog.mollywhite.net/twitter-bots-pt2/
+
+- News headlines: [Guardian API](http://open-platform.theguardian.com/), [Google News RSS](http://news.google.com/news?pz=1&cf=all&ned=us&hl=en&output=rss) (needs to be parsed)
+- News headlines filter ("tact"): [offensive.py](https://github.com/molly/CyberPrefixer/blob/master/offensive.py)
+- HTML parsing: [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
+- Parts-of-speech tagging: [topia.termextract](https://pypi.python.org/pypi/topia.termextract/)
+- Word and dictionary magic: [Wordnik](https://www.wordnik.com/)
+- Rhymes: [RhymeBrain API](http://rhymebrain.com/api.html)
+- Weather information: [Forecast.io API](https://developer.forecast.io/)
+- Markov chaining: [Markovify](https://github.com/jsvine/markovify)
+- [Interesting corpora](https://github.com/dariusk/corpora)
+
+Also, check out [Basic Twitter bot etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
 
 ## Deploying to heroku
 
